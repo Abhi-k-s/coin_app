@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">160493862962-cjeklg1k8ub7e3icp0ugrnnvelg86bo3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">160493862962</string>
+    <string name="google_api_key" translatable="false">AIzaSyCSA9Ywju0ol9eIak_UriPGjkVveIgWCS8</string>
+    <string name="google_app_id" translatable="false">1:160493862962:android:ad1f56a4e2eab22295fc2b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCSA9Ywju0ol9eIak_UriPGjkVveIgWCS8</string>
+    <string name="google_storage_bucket" translatable="false">coco-f20a6.appspot.com</string>
+    <string name="project_id" translatable="false">coco-f20a6</string>
+</resources>
